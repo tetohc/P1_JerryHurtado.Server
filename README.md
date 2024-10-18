@@ -1,7 +1,7 @@
 # REST-UNED-Servidor
 
 ## Descripción
-Proyecto del servidor para la empresa "REST-UNED", desarrollado en .NET 7, que implementa un sistema cliente/servidor para la gestión centralizada de pedidos de platos en restaurantes. Este proyecto utiliza inyección de dependencias, el patrón Modelo-Vista-Presentador (MVP) y Windows Forms para la interfaz de usuario del administrador. La información se almacena en una base de datos SQL Server. La solución permite al administrador gestionar las funcionalidades de restaurantes, clientes, categorías de platos, platos, platos por restaurante y extras, comunicándose con las aplicaciones cliente a través del protocolo TCP.
+Proyecto del curso Programación Avanzada de la UNED, servidor para la empresa REST-UNED. Desarrollado en .NET 7, implementa un sistema cliente/servidor para la gestión centralizada de pedidos de platos en restaurantes. Este proyecto utiliza inyección de dependencias, el patrón Modelo-Vista-Presentador (MVP) y Windows Forms para la interfaz de usuario del administrador. La información se almacena en una base de datos SQL Server. La solución permite al administrador gestionar las funcionalidades de restaurantes, clientes, categorías de platos, platos, platos por restaurante y extras, comunicándose con las aplicaciones cliente a través del protocolo TCP.
 
 ## Características del Proyecto
 - **Desarrollo Orientado a Objetos**: Uso de POO para estructurar las clases de objetos.
