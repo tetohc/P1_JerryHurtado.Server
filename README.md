@@ -1,5 +1,7 @@
 # REST-UNED-Servidor
 
+![preview](https://raw.githubusercontent.com/tetohc/MediaResources/refs/heads/main/images/covers/rest_server_demo.png)
+
 ## Descripción
 Proyecto del curso Programación Avanzada de la universidad, servidor para la empresa ficticia REST-UNED. Desarrollado en .NET 7, implementa un sistema cliente/servidor para la gestión centralizada de pedidos de platos en restaurantes. Este proyecto utiliza inyección de dependencias, el patrón Modelo-Vista-Presentador (MVP) y Windows Forms para la interfaz de usuario del administrador. La información se almacena en una base de datos SQL Server. La solución permite al administrador gestionar las funcionalidades de restaurantes, clientes, categorías de platos, platos, platos por restaurante y extras, comunicándose con las aplicaciones cliente a través del protocolo TCP.
 
